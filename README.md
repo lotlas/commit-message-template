@@ -4,3 +4,5 @@
 ```bash
 git config --global commit.template commit_message.txt
 ```
+## 주의 사항
+- `commit_message.txt` 파일을 삭제하면 안됩니다.
